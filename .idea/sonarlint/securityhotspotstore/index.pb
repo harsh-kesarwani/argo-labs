@@ -1,0 +1,23 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+G
+base/kustomization.yaml,7/0/70469a24f22f5c438557ff847329db7d2ed68872
+A
+base/service.yaml,7/5/75f9cb93f04da3fcb38052072a427007fae01a59
+I
+base/preview-service.yaml,e/8/e8985447eaf5f9154bc035a586d6e79d0058c664
+A
+base/rollout.yaml,3/8/38fa7a8468b689c41b4c72e134fcc41680f8ef77
+J
+staging/kustomization.yaml,4/6/46d4cc900ed2a7aa147c824bddf9f7586ca7c4d4
+A
+prod/service.yaml,e/5/e59d305478b73b8913aafe95fc8da73071f2e683
+G
+prod/kustomization.yaml,4/0/405d5553256a542bb78a2add98300b170a8cfd5d
+I
+prod/preview-service.yaml,d/6/d6309fe82ba0616734613e3fdf590e7ea8e16644
+A
+prod/rollout.yaml,3/a/3a16871ea81915378a0a6516cb2ca11ede48ca7f
+A
+prod/ingress.yaml,3/f/3fb2b1acee285bf1d96df92c0846464196bf7949
